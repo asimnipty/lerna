@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lerna/static/css/main.c0847c0a.css",
+    "main.js": "/lerna/static/js/main.81dd9226.js",
+    "index.html": "/lerna/index.html",
+    "main.c0847c0a.css.map": "/lerna/static/css/main.c0847c0a.css.map",
+    "main.81dd9226.js.map": "/lerna/static/js/main.81dd9226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0847c0a.css",
+    "static/js/main.81dd9226.js"
+  ]
+}
